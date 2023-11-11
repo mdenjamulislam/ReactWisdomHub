@@ -1,0 +1,22 @@
+{
+  "name": "John Doe",
+  "username": "john_doe123",
+  "email": "john.doe@example.com",
+  "bio": "Web Developer and Travel Enthusiast",
+  "profile_img": "https://cdn.pixabay.com/photo/2015/06/22/08/40/child-817373_1280.jpg",
+  "banner": "https://cdn.pixabay.com/photo/2017/04/13/10/42/modina-2227186_1280.jpg",
+  "social_media": {
+    "facebook": {
+      "icon": "https://cdn.pixabay.com/photo/2015/05/17/10/51/facebook-770688_1280.png",
+      "profile_link": "https://www.facebook.com/john.doe"
+    },
+    "twitter": {
+      "icon": "https://cdn.pixabay.com/photo/2014/04/03/11/53/twitter-312464_1280.png",
+      "profile_link": "https://twitter.com/johndoe"
+    },
+    "instagram": {
+      "icon": "https://cdn.pixabay.com/photo/2016/09/17/07/03/instagram-1675670_1280.png",
+      "profile_link": "https://www.instagram.com/john_doe/"
+    }
+  }
+}

@@ -1,0 +1,103 @@
+[
+    {
+      "id": 1,
+      "blog_title": "Exploring the Wonders of Artificial Intelligence",
+      "blog_expert": "Dive into the fascinating world of AI and its applications.",
+      "thum": "https://example.com/images/ai_blog_thumb.jpg",
+      "author": "Alice Johnson",
+      "author_img": "https://example.com/authors/alice_johnson.jpg",
+      "post_date": "2023-11-02",
+      "reading_time": "8 min"
+    },
+    {
+      "id": 2,
+      "blog_title": "The Art of Mindfulness Meditation",
+      "blog_expert": "Discover the benefits of mindfulness and how to incorporate it into your daily life.",
+      "thum": "https://example.com/images/mindfulness_blog_thumb.jpg",
+      "author": "Bob Smith",
+      "author_img": "https://example.com/authors/bob_smith.jpg",
+      "post_date": "2023-11-03",
+      "reading_time": "10 min"
+    },
+    {
+      "id": 3,
+      "blog_title": "The Future of Renewable Energy",
+      "blog_expert": "A glimpse into the innovative technologies shaping the future of energy.",
+      "thum": "https://example.com/images/renewable_energy_blog_thumb.jpg",
+      "author": "Eva Williams",
+      "author_img": "https://example.com/authors/eva_williams.jpg",
+      "post_date": "2023-11-04",
+      "reading_time": "12 min"
+    },
+    {
+      "id": 4,
+      "blog_title": "Culinary Adventures: A Global Tasting Tour",
+      "blog_expert": "Embark on a culinary journey around the world and savor diverse flavors.",
+      "thum": "https://example.com/images/culinary_adventures_thumb.jpg",
+      "author": "David Rodriguez",
+      "author_img": "https://example.com/authors/david_rodriguez.jpg",
+      "post_date": "2023-11-05",
+      "reading_time": "15 min"
+    },
+    {
+      "id": 5,
+      "blog_title": "Unlocking Creativity: A Guide for Every Artist",
+      "blog_expert": "Tips and techniques to unleash your creative potential.",
+      "thum": "https://example.com/images/creativity_blog_thumb.jpg",
+      "author": "Sophie Turner",
+      "author_img": "https://example.com/authors/sophie_turner.jpg",
+      "post_date": "2023-11-06",
+      "reading_time": "7 min"
+    },
+    {
+      "id": 6,
+      "blog_title": "Fitness Beyond the Gym: Outdoor Workout Ideas",
+      "blog_expert": "Explore fun and effective outdoor workout routines for a healthy lifestyle.",
+      "thum": "https://example.com/images/outdoor_fitness_thumb.jpg",
+      "author": "Michael Clark",
+      "author_img": "https://example.com/authors/michael_clark.jpg",
+      "post_date": "2023-11-07",
+      "reading_time": "9 min"
+    },
+    {
+      "id": 7,
+      "blog_title": "Astronomy 101: Journey to the Stars",
+      "blog_expert": "A beginner's guide to the wonders of the night sky and celestial objects.",
+      "thum": "https://example.com/images/astronomy_blog_thumb.jpg",
+      "author": "Olivia Turner",
+      "author_img": "https://example.com/authors/olivia_turner.jpg",
+      "post_date": "2023-11-08",
+      "reading_time": "11 min"
+    },
+    {
+      "id": 8,
+      "blog_title": "DIY Home Decor: Transform Your Space",
+      "blog_expert": "Creative and budget-friendly ideas to revamp your home decor.",
+      "thum": "https://example.com/images/diy_decor_blog_thumb.jpg",
+      "author": "Daniel Lee",
+      "author_img": "https://example.com/authors/daniel_lee.jpg",
+      "post_date": "2023-11-09",
+      "reading_time": "14 min"
+    },
+    {
+      "id": 9,
+      "blog_title": "Adventure Travel: Off the Beaten Path",
+      "blog_expert": "Escape the ordinary with these lesser-known travel destinations.",
+      "thum": "https://example.com/images/adventure_travel_thumb.jpg",
+      "author": "Isabella Martinez",
+      "author_img": "https://example.com/authors/isabella_martinez.jpg",
+      "post_date": "2023-11-10",
+      "reading_time": "13 min"
+    },
+    {
+      "id": 10,
+      "blog_title": "Mind-Blowing Science Experiments at Home",
+      "blog_expert": "Engage in exciting science experiments using household items.",
+      "thum": "https://example.com/images/science_experiments_thumb.jpg",
+      "author": "Ryan Miller",
+      "author_img": "https://example.com/authors/ryan_miller.jpg",
+      "post_date": "2023-11-11",
+      "reading_time": "6 min"
+    }
+  ]
+  
