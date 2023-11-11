@@ -10,3 +10,18 @@ html, body {
   line-height: 1.5;
   background-color: #1D232A;
 }
+
+
+
+/* Scrollbar */
+::-webkit-scrollbar {
+  width: 5px;
+}
+
+::-webkit-scrollbar-track {
+  background: #1E293B;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #232f44;
+}

@@ -8,6 +8,13 @@ import Sidebar from './components/Sidebar/Sidebar';
 function App() {
   const [count, setCount] = useState(0)
 
+  const [bookmark, setBookmark] = useState([]);
+
+  const handleAddToBookmark = (blog) => {
+    const newBookmark = [...bookmark, blog];
+    setBookmark(newBookmark);
+  }
+
   // User data
   const [user, setUser] = useState([]);
 
@@ -22,10 +29,10 @@ function App() {
     <>
       <div className='container relative' data-theme="dark">
         <Header user = {user}></Header>
-        <div className='grid grid-cols-12 gap-3 w-full md:h-[100vh] pt-16'>
+        <div className='grid grid-cols-12 gap-3 w-full md:h-[100vh] pt-20'>
           <User user = {user}></User>
-          <Blogs></Blogs>
-          <Sidebar></Sidebar>
+          <Blogs handleAddToBookmark={handleAddToBookmark}></Blogs>
+          <Sidebar bookmark={bookmark}></Sidebar>
         </div>
       </div>
       

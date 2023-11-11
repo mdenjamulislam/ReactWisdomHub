@@ -4,7 +4,7 @@ const User = ({ user }) => {
     const { name, username, email, profile_img, banner, bio, social_media } = user;
 
     return (
-        <div className='col-span-12 md:col-span-3 border border-slate-400'>
+        <div className='col-span-12 md:col-span-3 bg-slate-800 shadow-lg hidden md:block'>
             <div>
                 <img className='relative w-full h-auto' src={banner} alt="" />
                 <div class="avatar online -mt-6 lg:-mt-10 ml-3">

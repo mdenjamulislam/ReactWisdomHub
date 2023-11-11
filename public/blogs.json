@@ -1,103 +1,102 @@
 [
-    {
-      "id": 1,
-      "blog_title": "Exploring the Wonders of Artificial Intelligence",
-      "blog_expert": "Dive into the fascinating world of AI and its applications.",
-      "thum": "https://example.com/images/ai_blog_thumb.jpg",
-      "author": "Alice Johnson",
-      "author_img": "https://example.com/authors/alice_johnson.jpg",
-      "post_date": "2023-11-02",
-      "reading_time": "8 min"
-    },
-    {
-      "id": 2,
-      "blog_title": "The Art of Mindfulness Meditation",
-      "blog_expert": "Discover the benefits of mindfulness and how to incorporate it into your daily life.",
-      "thum": "https://example.com/images/mindfulness_blog_thumb.jpg",
-      "author": "Bob Smith",
-      "author_img": "https://example.com/authors/bob_smith.jpg",
-      "post_date": "2023-11-03",
-      "reading_time": "10 min"
-    },
-    {
-      "id": 3,
-      "blog_title": "The Future of Renewable Energy",
-      "blog_expert": "A glimpse into the innovative technologies shaping the future of energy.",
-      "thum": "https://example.com/images/renewable_energy_blog_thumb.jpg",
-      "author": "Eva Williams",
-      "author_img": "https://example.com/authors/eva_williams.jpg",
-      "post_date": "2023-11-04",
-      "reading_time": "12 min"
-    },
-    {
-      "id": 4,
-      "blog_title": "Culinary Adventures: A Global Tasting Tour",
-      "blog_expert": "Embark on a culinary journey around the world and savor diverse flavors.",
-      "thum": "https://example.com/images/culinary_adventures_thumb.jpg",
-      "author": "David Rodriguez",
-      "author_img": "https://example.com/authors/david_rodriguez.jpg",
-      "post_date": "2023-11-05",
-      "reading_time": "15 min"
-    },
-    {
-      "id": 5,
-      "blog_title": "Unlocking Creativity: A Guide for Every Artist",
-      "blog_expert": "Tips and techniques to unleash your creative potential.",
-      "thum": "https://example.com/images/creativity_blog_thumb.jpg",
-      "author": "Sophie Turner",
-      "author_img": "https://example.com/authors/sophie_turner.jpg",
-      "post_date": "2023-11-06",
-      "reading_time": "7 min"
-    },
-    {
-      "id": 6,
-      "blog_title": "Fitness Beyond the Gym: Outdoor Workout Ideas",
-      "blog_expert": "Explore fun and effective outdoor workout routines for a healthy lifestyle.",
-      "thum": "https://example.com/images/outdoor_fitness_thumb.jpg",
-      "author": "Michael Clark",
-      "author_img": "https://example.com/authors/michael_clark.jpg",
-      "post_date": "2023-11-07",
-      "reading_time": "9 min"
-    },
-    {
-      "id": 7,
-      "blog_title": "Astronomy 101: Journey to the Stars",
-      "blog_expert": "A beginner's guide to the wonders of the night sky and celestial objects.",
-      "thum": "https://example.com/images/astronomy_blog_thumb.jpg",
-      "author": "Olivia Turner",
-      "author_img": "https://example.com/authors/olivia_turner.jpg",
-      "post_date": "2023-11-08",
-      "reading_time": "11 min"
-    },
-    {
-      "id": 8,
-      "blog_title": "DIY Home Decor: Transform Your Space",
-      "blog_expert": "Creative and budget-friendly ideas to revamp your home decor.",
-      "thum": "https://example.com/images/diy_decor_blog_thumb.jpg",
-      "author": "Daniel Lee",
-      "author_img": "https://example.com/authors/daniel_lee.jpg",
-      "post_date": "2023-11-09",
-      "reading_time": "14 min"
-    },
-    {
-      "id": 9,
-      "blog_title": "Adventure Travel: Off the Beaten Path",
-      "blog_expert": "Escape the ordinary with these lesser-known travel destinations.",
-      "thum": "https://example.com/images/adventure_travel_thumb.jpg",
-      "author": "Isabella Martinez",
-      "author_img": "https://example.com/authors/isabella_martinez.jpg",
-      "post_date": "2023-11-10",
-      "reading_time": "13 min"
-    },
-    {
-      "id": 10,
-      "blog_title": "Mind-Blowing Science Experiments at Home",
-      "blog_expert": "Engage in exciting science experiments using household items.",
-      "thum": "https://example.com/images/science_experiments_thumb.jpg",
-      "author": "Ryan Miller",
-      "author_img": "https://example.com/authors/ryan_miller.jpg",
-      "post_date": "2023-11-11",
-      "reading_time": "6 min"
-    }
-  ]
-  
+  {
+    "id": 1,
+    "blog_title": "Exploring the Wonders of Artificial Intelligence",
+    "blog_expert": "Dive into the fascinating world of AI and its applications. Learn about cutting-edge technologies shaping our future and impacting various industries.",
+    "thum": "https://cdn.pixabay.com/photo/2019/01/30/07/45/web-3963945_1280.jpg",
+    "author": "Alice Johnson",
+    "author_img": "https://media.istockphoto.com/id/1407759041/photo/confident-happy-beautiful-hispanic-student-girl-indoor-head-shot-portrait.jpg?s=2048x2048&w=is&k=20&c=eskue6p9gwUVS2t0Kpuw6rd7Sgu5nKgxsMD6Aqaba8I=",
+    "post_date": "2023-11-02",
+    "reading_time": "8"
+  },
+  {
+    "id": 2,
+    "blog_title": "The Art ofdfulness Meditation",
+    "blog_expert": "Discover the transformative benefits ofdfulness and learn how to seamlessly incorporatedfulness practices into your daily life for enhanced well-being.",
+    "thum": "https://cdn.pixabay.com/photo/2022/10/18/21/03/yoga-7531142_1280.jpg",
+    "author": "Bob Smith",
+    "author_img": "https://cdn.pixabay.com/photo/2022/09/08/15/16/cute-7441224_640.jpg",
+    "post_date": "2023-11-03",
+    "reading_time": "10"
+  },
+  {
+    "id": 3,
+    "blog_title": "The Future of Renewable Energy",
+    "blog_expert": "Gain insight into the innovative technologies shaping the future of energy. Explore sustainable solutions that contribute to a greener and more environmentally friendly world.",
+    "thum": "https://cdn.pixabay.com/photo/2017/06/30/16/31/solar-panels-2458717_1280.jpg",
+    "author": "Eva Williams",
+    "author_img": "https://cdn.pixabay.com/photo/2021/07/19/03/40/woman-6477110_640.jpg",
+    "post_date": "2023-11-04",
+    "reading_time": "12"
+  },
+  {
+    "id": 4,
+    "blog_title": "Culinary Adventures: A Global Tasting Tour",
+    "blog_expert": "Embark on a culinary journey around the world and savor the diverse flavors that make each culture unique. Experience a global tasting tour right from your kitchen.",
+    "thum": "https://cdn.pixabay.com/photo/2017/07/28/13/29/spices-2548653_1280.jpg",
+    "author": "David Rodriguez",
+    "author_img": "https://cdn.pixabay.com/photo/2023/02/19/08/39/man-7799486_640.jpg",
+    "post_date": "2023-11-05",
+    "reading_time": "15"
+  },
+  {
+    "id": 5,
+    "blog_title": "Unlocking Creativity: A Guide for Every Artist",
+    "blog_expert": "Discover effective tips and techniques to unlock your creative potential. Whether you're an artist or not, explore ways to enhance your creativity and innovation.",
+    "thum": "https://media.istockphoto.com/id/1492024820/photo/hand-holding-virtual-human-brain-and-golden-key-icon-idea-creative-intelligence-to-success.jpg?s=2048x2048&w=is&k=20&c=a-0L8pl7X46UPF2K53xgQOH1C3NmClMkQF60S_crOwA=",
+    "author": "Sophie Turner",
+    "author_img": "https://cdn.pixabay.com/photo/2018/01/06/09/25/hijab-3064633_1280.jpg",
+    "post_date": "2023-11-06",
+    "reading_time": "7"
+  },
+  {
+    "id": 6,
+    "blog_title": "Fitness Beyond the Gym: Outdoor Workout Ideas",
+    "blog_expert": "Explore fun and effective outdoor workout routines for a healthy lifestyle. From hiking to calisthenics, discover ways to stay fit and active outside the traditional gym setting.",
+    "thum": "https://cdn.pixabay.com/photo/2020/01/28/19/44/man-4800810_1280.jpg",
+    "author": "Michael Clark",
+    "author_img": "https://cdn.pixabay.com/photo/2021/01/21/16/44/model-5937809_1280.jpg",
+    "post_date": "2023-11-07",
+    "reading_time": "9"
+  },
+  {
+    "id": 7,
+    "blog_title": "Astronomy 101: Journey to the Stars",
+    "blog_expert": "Embark on a beginner's guide to the wonders of the night sky and celestial objects. Explore the universe and gain insights into the captivating world of astronomy.",
+    "thum": "https://cdn.pixabay.com/photo/2017/03/15/14/05/hot-air-balloon-2146304_1280.jpg",
+    "author": "Olivia Turner",
+    "author_img": "https://images.unsplash.com/photo-1619420674819-da50b9f76950?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "post_date": "2023-11-08",
+    "reading_time": "11"
+  },
+  {
+    "id": 8,
+    "blog_title": "DIY Home Decor: Transform Your Space",
+    "blog_expert": "Revamp your living space with creative and budget-friendly DIY home decor ideas. Transform your surroundings with personalized touches that reflect your style and personality.",
+    "thum": "https://cdn.pixabay.com/photo/2017/01/07/17/48/interior-1961070_1280.jpg",
+    "author": "Daniel Lee",
+    "author_img": "https://images.unsplash.com/photo-1609010697446-11f2155278f0?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "post_date": "2023-11-09",
+    "reading_time": "14"
+  },
+  {
+    "id": 9,
+    "blog_title": "Adventure Travel: Off the Beaten Path",
+    "blog_expert": "Escape the ordinary with these lesser-known travel destinations. Uncover hidden gems and unique experiences that will add a sense of adventure to your travel journey.",
+    "thum": "https://cdn.pixabay.com/photo/2014/09/21/17/56/mountaineering-455338_1280.jpg",
+    "author": "Sumika Akther",
+    "author_img": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?q=80&w=1888&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "post_date": "2023-11-10",
+    "reading_time": "13"
+  },
+  {
+    "id": 10,
+    "blog_title": "Mind-Blowing Science Experiments at Home",
+    "blog_expert": "Engage in exciting science experiments using household items. Explore the wonders of science with hands-on activities that spark curiosity and creativity right at home.",
+    "thum": "https://cdn.pixabay.com/photo/2014/07/06/09/46/microscope-385364_1280.jpg",
+    "author": "Ryan Miller",
+    "author_img": "https://images.unsplash.com/photo-1603415526960-f7e0328c63b1?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "post_date": "2023-11-11",
+    "reading_time": "6"
+  }
+]
